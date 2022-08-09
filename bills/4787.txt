@@ -1,0 +1,20 @@
+	WELCOME TO SNACKOPEDIA
+	Phone-No.739275410
+
+Bill no. : 4787
+Customer Name : guneet
+Phone No. : 845215852
+====================================
+
+Product		Qty	Price
+
+====================================
+Burger		 1	Rs 35
+Noodles		 2	Rs 180
+Pasta		 3	Rs 450
+Maaza		 5	Rs 175
+------------------------------------
+
+Total Amount:		 11	Rs 840.0
+------------------------------------
+

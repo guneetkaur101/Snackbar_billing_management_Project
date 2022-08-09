@@ -1,0 +1,18 @@
+	WELCOME TO SNACKOPEDIA
+	Phone-No.739275410
+
+Bill no. : 2864
+Customer Name : guneet
+Phone No. : 87854215487
+====================================
+
+Product		Qty	Price
+
+====================================
+Burger		 2	Rs 70
+Pizza		 5	Rs 1250
+------------------------------------
+
+Total Amount:		 7	Rs 1320.0
+------------------------------------
+
